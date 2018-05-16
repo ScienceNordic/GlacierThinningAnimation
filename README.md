@@ -1,2 +1,0 @@
-# GlacierThinningAnimation
-Hype project
